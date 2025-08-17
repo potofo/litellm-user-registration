@@ -1,0 +1,7 @@
+venv
+user_reg_result.csv
+user_reg_error.csv
+user_del_result.csv
+user_del_error.csv
+user_sync_result.csv
+.env

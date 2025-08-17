@@ -1,0 +1,6 @@
+email,role,team_name,key_name
+user1@example.com,internal_user,internal_user,00000001_chatbot
+user2@example.com,internal_user_viewer,internal_user_viewer,00000002_chatbot
+portfolio997@gmail.com,proxy_admin,proxy_admin,00000003_chatbot
+test@domain.org,internal_user,proxy_admin,00000004_chatbot
+manager@company.com,proxy_admin_viewer,proxy_admin,00000005_chatbot
